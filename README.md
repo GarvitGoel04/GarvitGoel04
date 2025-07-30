@@ -13,7 +13,7 @@ I'm a passionate **DevOps + QA hybrid engineer** who believes in merging quality
 🎓 Computer Science graduate (2025)  
 🛠️ Self-built roadmap focused on **CI/CD + API Testing + Docker + Linux + Monitoring**  
 💼 Actively looking for **DevOps | QA | SRE | Automation** fresher roles  
-🌱 Always learning: Currently expanding into **Kubernetes & Observability tools**  
+🌱 Always learning: Currently expanding into **Monitoring & Observability tools**  
 
 ---
 
@@ -26,7 +26,7 @@ I'm a passionate **DevOps + QA hybrid engineer** who believes in merging quality
   </tr>
   <tr>
     <td><b>DevOps</b></td>
-    <td>Jenkins, Docker, Git, GitHub Actions, CI/CD pipelines</td>
+    <td>Jenkins, Docker, Git, GitHub Actions, CI/CD pipelines , Kubernetes , Ansible , Terraform</td>
   </tr>
   <tr>
     <td><b>Scripting & OS</b></td>
